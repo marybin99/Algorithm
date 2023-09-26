@@ -12,3 +12,4 @@ https://www.acmicpc.net/problem/1708
 1. A-B보다 점 C가 우측에 있는 경우
 2. A, B, C 모두 같은 선상에 있는 경우   
 => 예외처리를 위해 CCW(Counter Clock Wise) 사용
+
