@@ -1,3 +1,3 @@
-## 11437 LCA
+## LCA
 
 https://www.acmicpc.net/problem/11437
