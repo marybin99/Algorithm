@@ -21,7 +21,7 @@ const readline = require('readline');
                 arr[index] = tmp % 10; // 일의 자리 저장
                 tmp = Math.floor(tmp/10); 
             }
-            while(tmp) {  // r이 한 자리수가 아니면
+            while(tmp) {  //tmp가 한 자리수가 아니면
                 arr.push(tmp % 10); // arr에 추가
                 tmp = Math.floor(tmp/10);
             }
